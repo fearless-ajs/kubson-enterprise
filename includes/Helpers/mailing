@@ -1,0 +1,8 @@
+-->php.ini Mail Settings
+.SMTP(Simple Mail Transfer Protocol).
+.smtp_port
+.sendmail_from
+.sendmail_path
+
+Using a Library called PHPMailer
+configure your mail credentials before making use of the library.

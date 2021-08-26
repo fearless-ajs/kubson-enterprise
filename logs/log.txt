@@ -1,0 +1,22 @@
+2019-01-24 05:49:S | logs Cleared: By User ID 1
+2019-01-29 15:04:S | login: joshua logged in.
+2019-02-11 10:45:S | login: joshua logged in.
+2019-04-17 13:47:S | login: joshua logged in.
+2019-04-26 12:54:S | login:  logged in.
+2019-09-10 14:17:S | login:  logged in.
+2019-09-10 16:42:S | login:  logged in.
+2019-09-10 17:26:S | login:  logged in.
+2019-09-10 17:26:S | login:  logged in.
+2019-09-18 12:47:S | login:  logged in.
+2019-09-18 13:40:S | login:  logged in.
+2019-10-20 20:12:S | login:  logged in.
+2019-10-20 20:14:S | login:  logged in.
+2019-10-20 20:15:S | login:  logged in.
+2019-10-20 20:15:S | login:  logged in.
+2019-10-20 20:16:S | login:  logged in.
+2019-10-20 20:19:S | login:  logged in.
+2019-10-20 20:20:S | login:  logged in.
+2019-10-20 20:24:S | login:  logged in.
+2019-10-24 03:16:S | login:  logged in.
+2019-10-24 03:17:S | login:  logged in.
+2019-10-24 03:19:S | login:  logged in.
